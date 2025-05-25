@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryantrynacode
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python,numpy,pandas and i am willing do much more
+- 🌱 I’m currently learning python,numpy,pandas and i am willing to do much more
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 You can reach me on my email : xryan.shxrma@gmail.com
 
