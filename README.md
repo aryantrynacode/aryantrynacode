@@ -8,6 +8,7 @@
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantrynacode&show_icons=true&theme=radical)
 
 
-            <i class="devicon-mysql-original"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
           
 
