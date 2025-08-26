@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" style="margin-right: 15px;" />
   <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif"width="160" style="margin-right: 15px;"/>
 </div>
-# 👋 Hi, I'm Aryan Sharma
+## 👋 Hi, I'm Aryan Sharma
 ## 🚀 Data Scientist | ML Engineer | Full-Stack Developer
 
 <div align="center">
