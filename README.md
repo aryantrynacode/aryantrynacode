@@ -7,7 +7,7 @@
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantrynacode&show_icons=true&theme=radical)
 
-![<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
           
           
 
