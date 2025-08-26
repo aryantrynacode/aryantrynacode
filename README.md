@@ -31,23 +31,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Languages:** Python • JavaScript • R • SQL • C++ • Java  
-**ML/AI:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
-**Web:** React • Node.js • Express • HTML/CSS  
+**ML/AI:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy   
 **Tools:** AWS • Docker • Git • Jupyter • Streamlit
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 **Data Analysis Chatbot** | NLP chatbot for CSV analysis & insights | Python, NLP |
-| 🏥 **Frailty Prediction Model** | ML model for health prediction (70+ adults) | Scikit-learn |
-| 💰 **Finance Assistant** | Expense prediction & classification | Streamlit, ML |
-| 🎓 **SyncAll Platform** | Social learning with AI assistant | React, Node.js |
 
 ### 📊 GitHub Stats
 
@@ -60,9 +49,8 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-aryan-sharma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xryan,shxrma@gmail.com)
 
 ---
 
