@@ -7,4 +7,4 @@
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantrynacode&show_icons=true&theme=radical)
 
-[![Pacman Contributions](https://github-profile-trophy.vercel.app/?username=aryantrynacode&theme=radical)](https://github.com/aryantrynacode)
+[![Pacman Contributions](https://github-profile-trophy.vercel.app/?username=username&theme=radical)](https://github.com/username)
