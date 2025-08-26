@@ -7,5 +7,7 @@
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantrynacode&show_icons=true&theme=radical)
 
-[![Pacman Contributions](https://github-profile-trophy.vercel.app/?username=username&theme=radical)](https://github.com/username)
+
+            <i class="devicon-mysql-original"></i>
+          
 
