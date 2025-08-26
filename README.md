@@ -9,6 +9,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="160" style="margin-right: 15px;" />
   <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" style="margin-right: 15px;" />
-  <img src="https://user-images.githubusercontent.com/74038190/216655853-3acb8c9c-42bd-4d0c-aaa6-27b409361578.gif" width="160" style="margin-right: 15px;"/>
+  [<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif"width="160" style="margin-right: 15px;"/>]
 </div>
 
