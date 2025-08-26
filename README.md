@@ -12,10 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif"width="160" style="margin-right: 15px;"/>
 </div>
 
-<div align = "center">
-**👋 Hi, I'm Aryan Sharma**
-**🚀 Data Scientist | ML Engineer**
-</div>  
+
 
 <div align="center">
 
