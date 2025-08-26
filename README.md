@@ -13,8 +13,8 @@
 </div>
 
 <div align = "center">
-## 👋 Hi, I'm Aryan Sharma
-## 🚀 Data Scientist | ML Engineer | Full-Stack Developer
+**👋 Hi, I'm Aryan Sharma**
+**🚀 Data Scientist | ML Engineer**
 </div>  
 
 <div align="center">
