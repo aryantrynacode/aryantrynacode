@@ -3,7 +3,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+World;I'm+Aryan;Welcome+to+my+profile;Let's+do+a+Project;Check+out+my+Projects" alt="Typing SVG"/>
 </div>
-
 <br>
 
 <!-- Three GIFs side by side with spacing -->
@@ -11,11 +10,9 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="160" style="margin-right: 15px;" />
   <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" style="margin-right: 15px;" />
-  <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif"width="160" style="margin-right: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="160" style="margin-right: 15px;"/>
   
 </div>
-
-
 
 <div align="center">
 
@@ -38,28 +35,27 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Languages:** Python • JavaScript • R • SQL • C++ • Java  
-**ML/AI:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy   
+**ML/AI:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
 **Tools:** AWS • Docker • Git • Jupyter • Streamlit
 
 ### 📊 GitHub Stats
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryantrynacode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-aryan-sharma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xryan,shxrma@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xryan.shxrma@gmail.com)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aryantrynacode&color=brightgreen&style=flat-square)
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
