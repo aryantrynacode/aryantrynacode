@@ -3,5 +3,4 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <br><br>  
           
-<img src="https://user-images.githubusercontent.com/74038190/216655851-0415f042-4ad3-4c66-b63d-ab57210929fd.gif" width="160" />
-<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" />
