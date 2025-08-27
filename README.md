@@ -25,7 +25,6 @@
 ### 🎯 About Me
 - 🌱 Learning **Advanced ML, NLP & Cloud Deployment**
 - 💼 Open to **Data Science & AI opportunities**
-- ⚡ I turn coffee ☕ into code and data into insights!
 
 ### 🛠️ Tech Stack
 
