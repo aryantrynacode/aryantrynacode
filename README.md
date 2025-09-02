@@ -16,7 +16,9 @@
 
 <div align="center">
 
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Data+Scientist+%26+ML+Engineer;Python+%7C+Scikit-learn+%7C+TensorFlow;Building+AI+Solutions)](https://git.io/typing-svg)
+
 
 </div>
 
